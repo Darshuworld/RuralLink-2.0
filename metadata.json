@@ -1,0 +1,7 @@
+{
+  "name": "RuralLink",
+  "description": "Tinder for Trucks — first-mile digital logistics for rural MSMEs in Nagpur region. Enables matching, group shipping, and real-time tracking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
